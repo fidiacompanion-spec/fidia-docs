@@ -5,7 +5,7 @@ Effective Date: April 3, 2026
 
 1. Introduction
 
-By downloading or using Fidia Companion ("the App"), you agree to these terms. Fidia is a financial diary application designed to help users track transactions and gain insights through AI technology.
+   By downloading or using Fidia Companion ("the App"), you agree to these terms. Fidia is a financial diary application designed to help users track transactions and gain insights through AI technology.
 
 2. Disclaimer: Not Financial Advice
 

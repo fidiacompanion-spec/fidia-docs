@@ -82,57 +82,60 @@ Last Updated: April 3, 2026
 
 1. Acceptance of Terms
 
-By accessing or using Fidia Companion ("the App"), you agree to be bound by these Terms. If you do not agree, do not use the App.
+   By accessing or using Fidia Companion ("the App"), you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 
 2. Description of Service
 
-Fidia Companion is a personal finance diary and tracking tool. It provides manual data entry, backup features, and AI-generated financial insights powered by third-party Large Language Models (Google Gemini).
+   Fidia Companion is a personal finance diary and tracking tool. It provides manual data entry, backup features, and AI-generated financial insights powered by third-party Large Language Models (Google Gemini).
 
 
 3. No Financial Advice
 
-THE APP DOES NOT PROVIDE FINANCIAL ADVICE. * All AI-generated insights, summaries, and suggestions are for informational purposes only.
+   THE APP DOES NOT PROVIDE FINANCIAL ADVICE. * All AI-generated insights, summaries, and suggestions are for informational purposes only.
 
-The Developer is not a financial advisor, planner, or tax professional.
+   The Developer is not a financial advisor, planner, or tax professional.
 
-You are solely responsible for any financial decisions made based on information within the App.
+   You are solely responsible for any financial decisions made based on information within the App.
 
 
 4. User Content & AI Accuracy
 
-Accuracy: AI technology can "hallucinate" or provide inaccurate data. You agree to verify all AI suggestions before acting on them.
+   Accuracy: AI technology can "hallucinate" or provide inaccurate data. You agree to verify all AI suggestions before acting on them.
 
-Reporting: If the App generates content that is harmful, illegal, or grossly inaccurate, you agree to report it via the "Report Invalid AI" link in the App settings.
+
+   Reporting: If the App generates content that is harmful, illegal, or grossly inaccurate, you agree to report it via the "Report Invalid AI" link in the App settings.
 
 
 5. Data & Backups
 
-Local Storage: Your data is stored locally on your device.
+   Local Storage: Your data is stored locally on your device.
 
-Manual Backups: While the App provides a manual backup feature, the Developer is not responsible for data loss due to hardware failure, app uninstallation, or failed manual transfers.
+
+   Manual Backups: While the App provides a manual backup feature, the Developer is not responsible for data loss due to hardware failure, app uninstallation, or failed manual transfers.
 
 
 6. Prohibited Uses
 
-You agree not to use the App for:
+   You agree not to use the App for:
 
-Tracking illegal transactions or money laundering.
+   Tracking illegal transactions or money laundering.
 
-Reverse engineering the App or the AI integration.
+   Reverse engineering the App or the AI integration.
 
-Inputting sensitive PII (Passwords, Social Security Numbers) into text fields.
+   Inputting sensitive PII (Passwords, Social Security Numbers) into text fields.
 
 
 7. Limitation of Liability
 
-To the maximum extent permitted by law, the Developer shall not be liable for any indirect, incidental, or consequential damages (including loss of profits or data) arising out of your use of the App.
+   To the maximum extent permitted by law, the Developer shall not be liable for any indirect, incidental, or consequential damages (including loss of profits or data) arising out of your use of the App.
 
 
 8. Changes to Terms
 
-We reserve the right to modify these terms at any time. Continued use of the App constitutes acceptance of the new terms.
+   We reserve the right to modify these terms at any time. Continued use of the App constitutes acceptance of the new terms.
 
 
 7. Contact Information
-For questions regarding this policy, please contact the developer via the GitHub repository issue tracker.
+   
+   For questions regarding this policy, please contact the developer via the GitHub repository issue tracker.

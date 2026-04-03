@@ -1,7 +1,7 @@
 **Fidia Companion: Privacy Policy & EULA**
 
-
 Effective Date: April 3, 2026
+
 
 1. Introduction
 
@@ -77,6 +77,7 @@ Effective Date: April 3, 2026
 **Terms of Service (TOS)**
 
 Last Updated: April 3, 2026
+
 
 
 1. Acceptance of Terms
